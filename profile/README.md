@@ -1,6 +1,6 @@
 # About
 GDAPI is [my](https://github.com/Quasar-Kim) personal project to provide javascript packages to interact with gamefiles of game Geometry Dash.
-All packages are publish to npm in [@gdapi] scope and can be easily added to your project.
+All packages are publish to npm under `@gdapi` scope and can be easily added to your project.
 
 Features
 - **Works on both browser and Node.js environment**: All packages are tested against browser environment and will be tested against node environment.
