@@ -8,8 +8,8 @@ Features
 - **modern javascript**: Supports Promise API.
 
 # Status
-- [`crypto`](https://www.npmjs.com/package/@gdapi/crypto): Encrypts/decrypts gamefiles and levels. **Published on npm**.
-- [`plist`](https://www.npmjs.com/package/@gdapi/plist): Parse/stringify simplified plist inside gamefiles. **Published on npm**.
+- [`crypto`](https://github.com/gdapi/crypto): Encrypts/decrypts gamefiles and levels. ![npm (scoped)](https://img.shields.io/npm/v/@gdapi/crypto?style=flat-square)
+- [`plist`](https://github.com/gdapi/plist): Parse/stringify simplified plist inside gamefiles. ![npm (scoped)](https://img.shields.io/npm/v/@gdapi/plist?style=flat-square)
 - `gamefile`: Parse/stringify gamefiles into readable javascript object using crypto and plist module. **In developement**.
 - `level-str`: Encode/decode encoded level string.
 - `level`: Parse/stringify encoded level string into readable javascript object using crypto and level-str module.
